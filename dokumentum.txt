@@ -1,2 +1,3 @@
 név: Németh János
-osztály: 9.F
+osztály: 9.f
+
