@@ -1,2 +1,2 @@
-név:
-osztály:
+név: Németh János
+osztály: 9.F
